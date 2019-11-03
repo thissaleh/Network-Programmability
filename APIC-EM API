@@ -1,1 +1,35 @@
+https://sandboxapicem.cisco.com/api/v1/ticket
+https://sandboxapicem.cisco.com/api/v1/user
+https://sandboxapicem.cisco.com/api/v1/interface
+https://sandboxapicem.cisco.com/api/v1/interface/count
+https://sandboxapicem.cisco.com/api/v1/interface/ip-address/{ipAddress}
+https://sandboxapicem.cisco.com/api/v1/interface/isis
+https://sandboxapicem.cisco.com/api/v1/interface/network-device/{deviceId}
+https://sandboxapicem.cisco.com/api/v1/interface/network-device/{deviceId}/count
+https://sandboxapicem.cisco.com/api/v1/interface/network-device/{deviceId}/interface-name
+https://sandboxapicem.cisco.com/api/v1/host
+https://sandboxapicem.cisco.com/api/v1/host/count
+https://sandboxapicem.cisco.com/api/v1/network-device
+https://sandboxapicem.cisco.com/api/v1/network-device/count
+https://sandboxapicem.cisco.com/api/v1/network-device/{id}
+https://sandboxapicem.cisco.com/api/v1/network-device/{id}/brief
+https://sandboxapicem.cisco.com/api/v1/network-device/{id}/vlan
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
+https://sandboxapicem.cisco.com/api/v1/
 
+
+
+
+KEY                         VALUE
+Content-Type                application/json
+X-Auth-Token                ST-3019-aohpTxowdUTsVeSkdSVT-cas
+
+
+
+routerid = 0dd240fd-5cca-4774-a801-9f1c04edcc70
